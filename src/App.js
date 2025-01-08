@@ -12,12 +12,9 @@ function App() {
           <Routes>
             <Route path='/' element={<Home></Home>}></Route>
             <Route path='*' element={<div>Dude yo came to the wrong Address</div>}></Route>
-            <Route path='/' element={<Home></Home>}></Route>
           </Routes>
         </div>
-
       </Router>
-      <Home></Home>
     </div>
   );
 }
