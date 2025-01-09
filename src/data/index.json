@@ -3,48 +3,48 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Web Development",
+      "description": "Skilled in developing full-stack web applications using HTML, CSS, JavaScript, and frameworks like React, Node.js, and Express."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Data Science & Machine Learning",
+      "description": " Expertise in Python for data analysis, machine learning, and AI solutions."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Artificial Intelligence",
+      "description": "Experienced in applying AI techniques to solve complex problems such as prediction, fraud detection, and automation"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Cloud Computing",
+      "description": "Certified by Microsoft and AWS, showcasing expertise in cloud services, deployment, and scalable architectures."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Music Subscription Churn Prediction",
+      "description": "A data-driven project predicting subscription churn using Flask, PostgreSQL, and machine learning models",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Cryptocurrency Illegal Transactions Prediction",
+      "description": "Applied machine learning techniques to detect fraudulent activities in cryptocurrency.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Game Development",
+      "description": "Created interactive games like Snake and Ladders and a modified Dragon game using HTML, CSS, and JavaScript.",
       "link": "View In Github"
     }
   ],

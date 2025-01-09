@@ -34,9 +34,11 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
+      <Link to="herosection">
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+        <img src="./img/logo.jpg" alt="Logo" />
       </div>
+      </Link>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
@@ -55,10 +57,24 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="heroSection" 
+              to="herosection" 
               className="navbar--content"
             >
               Home
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="AboutMe"
+              className="navbar--content"
+            >
+              About Me
             </Link>
           </li>
           <li>
@@ -73,20 +89,6 @@ function Navbar() {
               className="navbar--content"
             >
               Portfolio
-            </Link>
-          </li>
-          <li>
-            <Link
-              onClick={closeMenu}
-              activeClass="navbar--active-content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              to="About"
-              className="navbar--content"
-            >
-              About Me
             </Link>
           </li>
           <li>

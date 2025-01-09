@@ -10,14 +10,18 @@ export default function HeroSection() {
             DEVELOPER
           </h1>
           <p className="hero--section--description">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Welcome to my portfolio! I am Sai Varun, Data Science Enthusiast &
+            Full-Stack Developer
             <br />
-            Repudiandae sunt nihil reiciendis voluptatibus nemo dolorem dolores
-            veritatis rem perferendis, quas magnam sapiente voluptatem. Dicta
-            accusamus, cupiditate quidem repellendus voluptates iste?
+            With a passion for solving real-world problems through data and
+            technology, <br /> I specialize in creating innovative solutions
+            that combine analytical rigor with creative design.
           </p>
         </div>
-        <button className="btn  btn-primary">Get In Touch</button>
+        <br/>
+        <a href="https://drive.google.com/file/d/1kvsh6sP1B5M1F_od8kmE8zQ7cmbdQhv7/view?usp=drive_link">
+          <button className="btn  btn-primary">Get In Touch</button>
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.jpg" alt="Hero-img" />
@@ -25,4 +29,3 @@ export default function HeroSection() {
     </section>
   );
 }
- 
