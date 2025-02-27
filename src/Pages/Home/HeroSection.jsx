@@ -19,7 +19,7 @@ export default function HeroSection() {
           </p>
         </div>
         <br/>
-        <a href="https://drive.google.com/file/d/1kvsh6sP1B5M1F_od8kmE8zQ7cmbdQhv7/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1aLvVT9WzLYRWyiQUqrRhIuAJJYqcELE_/view?usp=sharing">
           <button className="btn  btn-primary">Get In Touch</button>
         </a>
       </div>
